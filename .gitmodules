@@ -1,3 +1,0 @@
-[submodule "externals/php-github-api"]
-	path = externals/php-github-api
-	url = git://github.com/orioltf/php-github-api.git
